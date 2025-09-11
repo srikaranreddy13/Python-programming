@@ -1,0 +1,7 @@
+# calculate simple interest and totamt
+pamt=int(input("Enter the initial amt"))
+r=int(input("Enter the rate of interest"))
+t=int(input("Enter the time in months"))
+si=(pamt*t*r)//100
+print(si)
+print(pamt+si)

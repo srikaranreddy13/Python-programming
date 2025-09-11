@@ -1,0 +1,4 @@
+# volume of cube
+a=int(input("Enter the side of cube"))
+v=a*a*a
+print("volume of cube is ",v)

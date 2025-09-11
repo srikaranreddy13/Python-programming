@@ -1,0 +1,7 @@
+#area and cirtcumference of rectangle
+l=int(input("Enter the length of rectangle"))
+b=int(input("Enter the breadth of rectangle"))
+a=l*b
+print('area of rectangle',a)
+p=2*(l+b)
+print(p)
